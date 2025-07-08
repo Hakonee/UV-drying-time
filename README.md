@@ -204,3 +204,11 @@ O UV Drying Time é versátil e pode ser usado em diversos cenários que requere
   2. Adicione a biblioteca LiquidCrystal_I2C via Sketch > Include Library > Manage Libraries.
   3. Conecte os componentes conforme a tabela de conexões.
   4. Carregue o código UV_Drying_Time.ino no Arduino.
+ 
+
+## Imagens:
+![image](https://github.com/user-attachments/assets/f122df6c-f421-4cda-b367-535ae0e1a50c)
+![IMG_20250708_135753](https://github.com/user-attachments/assets/2d521171-4d47-4d45-a348-a7736e8b8582)
+![IMG_20250708_135741](https://github.com/user-attachments/assets/3347c22f-d44b-4da0-8b81-f70899a3f0aa)
+![Screenshot_2025-07-08-13-55-15-914_com instagram android](https://github.com/user-attachments/assets/e9e521d2-0eed-4567-bab2-a0a02095d223)
+
